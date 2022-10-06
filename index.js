@@ -2,7 +2,6 @@
 console.log("Hello word!");
 console.log("I'm here!");
 console.log("I'm here too!");
-
-//Otros comentarios
+// Nuevos mensajes por aqui para que choquen
 //mas comentarios
 //y otro mas
